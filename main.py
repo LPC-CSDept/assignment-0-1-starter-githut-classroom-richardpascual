@@ -4,8 +4,6 @@ def main():
     # make your code below
     # print('Hello World')
     ##############################
-
-def main():
     print('Hello World')
     print('CS7: Introduction to Computer Programming')
 
